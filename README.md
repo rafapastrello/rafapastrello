@@ -1,9 +1,9 @@
-### Oii! Eu sou a Rafa Pastrello. 👋
+### Oii! eu sou a Rafa Pastrello. 👋
 
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raf.llosilva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-pastrello-silva-049801283/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raf.llosilva/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raf.llosilva/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCXJRwwkVSc_Nr0omUGPZwKw)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/rafllosilva)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafllosilva&show_icons=true&theme=dracula)
 
