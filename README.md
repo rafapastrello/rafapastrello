@@ -2,7 +2,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafllosilva&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="Pastrello github stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafllosilva&layout=compact&hide_border=true&theme=dark" />
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafllosilva&layout=compact&hide_border=true&theme=dark" alt="Pastrello github langs" />
 </div>
 
 ### Main skills:                                                                                               
@@ -41,5 +41,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-pastrello-silva-049801283/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raf.llosilva/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raf.llosilva/)
-
-
