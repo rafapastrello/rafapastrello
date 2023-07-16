@@ -13,7 +13,7 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafllosilva&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="Pastrello github stats" />
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafllosilva&layout=compact&hide_border=true&theme=dark" alt="Pastrello github langs" />
-  <img width="44%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rafllosilva&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="rafllosilva" />
+  <img width="52%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rafllosilva&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="rafllosilva" />
 </div>
 
 ### Main skills:                                                                                               
