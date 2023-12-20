@@ -101,10 +101,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafllosilva}/count.svg" /></p> 
 <br>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=135a00&height=120&section=footer"/>
-
-
-<div align="center">
-
-  ![Snake animation](https://github.com/rafllosilva/rafllosilva/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
