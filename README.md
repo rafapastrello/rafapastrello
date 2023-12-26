@@ -4,7 +4,7 @@
 <!-- Oii! Eu sou a Rafa Pastrello -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=false&vCenter=false&width=1100&lines=Oii!+Eu+sou+a+Rafa+Pastrello+🤘)](https://git.io/typing-svg)
 
-<br><br>
+<br>
 
 <!-- Gráfico -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafllosilva&bg_color=0d1117&color=00FF00&line=b13583&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
