@@ -1,16 +1,8 @@
+<!-- Ondas Início -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=135a00&height=120&section=header"/>
 
 <!-- Oii! Eu sou a Rafa Pastrello -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=false&vCenter=false&width=1100&lines=Oii!+Eu+sou+a+Rafa+Pastrello+🤘)](https://git.io/typing-svg)
-<br>
-
-<!-- Mário -->
-![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
-
-<!-- Linha -->
-<p align="center">
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
-</p>
 
 <br><br>
 
@@ -26,10 +18,12 @@
   <img width="52%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rafllosilva&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="rafllosilva" />
 </div>
 
+<br>
 
-<!-- Main skills -->
-### Main skills:                                                                                               
-<div align="left">
+<!-- Main skills -->                                                                                            
+<div align="center">
+
+  ### Main skills:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -44,8 +38,9 @@
 </div>
 
 <!-- Studying -->
-### Studying:
-<div align="left">
+<div align="center">
+  
+  ### Studying:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="postgresql logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/>
@@ -85,7 +80,7 @@
 <br>
 
 <!-- Redes sociais -->
-<div> 
+<div align="center"> 
 
 ### Social media:                     
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rafllosilva)
@@ -95,9 +90,16 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raf.llosilva/)
 </div>
 
+<br>
+
 <!-- Visitors Count -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rafllosilva}/count.svg" /></p> 
 <br>
+
+<!-- Mário -->
+![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+
+<!-- Ondas Fim -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=135a00&height=120&section=footer"/>
