@@ -11,15 +11,6 @@
 
 <br>
 
-<!-- Status -->
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafllosilva&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=00FF00&text_color=c9d1d9&bg_color=171717" alt="Pastrello's github stats" /> 
-  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafllosilva&layout=compact&hide_border=true&title_color=FFFFFF&text_color=b6b6b6&bg_color=0d1117" />
-  <img width="52%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rafllosilva&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="rafllosilva" />
-</div>
-
-<br>
-
 <!-- Main skills -->                                                                                            
 <div align="center">
 
@@ -54,9 +45,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-<br>
 
-<br>
+<br><br><br>
+
+<!-- Status -->
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafllosilva&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=00FF00&text_color=c9d1d9&bg_color=171717" alt="Pastrello's github stats" /> 
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafllosilva&layout=compact&hide_border=true&title_color=FFFFFF&text_color=b6b6b6&bg_color=0d1117" />
+  <img width="52%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rafllosilva&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="rafllosilva" />
+</div>
+
+<br><br>
 
 <!-- Linha -->
 <p align="center">
