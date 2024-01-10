@@ -47,7 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel"  />
 </div>
 
-<br><br><br>
+<br><br>
 
 <!-- Status -->
 <div align="center">  
@@ -58,20 +58,8 @@
 
 <br><br>
 
-<!-- Linha -->
-<p align="center">
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
-</p>
-
 <!-- Troféus -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rafllosilva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  
-  <!-- Linha -->
-  <p align="center">
-  <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
-  </p>
-</div>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rafllosilva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/></p>
 
 <br>
 
@@ -90,7 +78,7 @@
   <a href="https://www.facebook.com/raf.llosilva/"><img src="https://cdn-icons-png.flaticon.com/128/1409/1409943.png" height="34" alt="Facebook"/></a>
 </div>
 
-<br><br>
+<br>
 
 <!-- Visitors Count -->
 <div align="center">
