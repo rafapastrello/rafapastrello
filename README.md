@@ -14,38 +14,37 @@
 <!-- Main skills -->                                                                                            
 <div align="center">
 
-### Main skills:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows logo"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  height="40" alt="mysql logo"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"  height="40" alt="sqlite logo"/>
+  ### Main skills:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="49" alt="php"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  height="40" alt="mysql"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"  height="40" alt="sqlite"/>
 </div>
 
 <!-- Studying -->
 <div align="center">
   
-### Studying:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"/>
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
-
+  ### Studying:
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel"  />
 </div>
 
 <br><br><br>
@@ -66,33 +65,37 @@
 
 <!-- Troféus -->
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rafllosilva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-
-<!-- Linha -->
-<p align="center">
-<img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=rafllosilva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  
+  <!-- Linha -->
+  <p align="center">
+  <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="350" height="1">
+  </p>
 </div>
 
 <br>
 
 <!-- Redes sociais -->
 <div align="center"> 
-
-### Social media:
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1065050312420900934/)
-[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raf.llosilva@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-pastrello-silva-049801283/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafa.pastrello/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raf.llosilva/)
+  
+  ### Social media:
+  <a href="https://discord.com/users/1065050312420900934/"><img src="https://cdn-icons-png.flaticon.com/128/2626/2626288.png" height="40" alt="Discord"/></a>
+  <img width="20" />
+  <a href="mailto:raf.llosilva@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" height="37" alt="Gmail"/></a>
+  <img width="20" />
+  <a href="https://www.linkedin.com/in/rafaela-pastrello-silva-049801283/"><img src="https://cdn-icons-png.flaticon.com/128/3938/3938061.png" height="34" alt="LinkedIn"/></a>
+  <img width="20" />
+  <a href="https://www.instagram.com/rafa.pastrello/"><img src="https://cdn-icons-png.flaticon.com/128/3938/3938051.png" height="34" alt="Instagram"/></a>
+  <img width="20" />
+  <a href="https://www.facebook.com/raf.llosilva/"><img src="https://cdn-icons-png.flaticon.com/128/1409/1409943.png" height="34" alt="Facebook"/></a>
 </div>
 
-<br>
+<br><br>
 
 <!-- Visitors Count -->
 <div align="center">
-<p><b>Visitors Count</b></p>  
-<img src="https://profile-counter.glitch.me/{rafllosilva}/count.svg"/>
+  <p><b>Visitors Count</b></p>  
+  <img src="https://profile-counter.glitch.me/{rafllosilva}/count.svg"/>
 </div>
 
 <br><br>
