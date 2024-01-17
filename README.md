@@ -22,13 +22,13 @@
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="python"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  height="40" alt="mysql"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" height="42" alt="python"  />
+  <img width="10" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" height="42" alt="django" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"  height="40" alt="sqlite"/>
+  <img width="12" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" height="65" alt="mysql" />
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres"/>
 </div>
