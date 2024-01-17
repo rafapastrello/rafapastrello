@@ -78,4 +78,4 @@
 <img src="mario.gif" alt="gif mario">
 
 <!-- Ondas Fim -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=135a00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=135a00&height=90&section=footer"/>
