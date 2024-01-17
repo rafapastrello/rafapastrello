@@ -1,5 +1,5 @@
 <!-- Ondas Início -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=135a00&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=135a00&height=90&section=header"/>
 
 <!-- Oii! Eu sou a Rafa Pastrello -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=false&vCenter=false&width=1100&lines=Oii!+Eu+sou+a+Rafa+Pastrello+🤘+🇧🇷)](https://git.io/typing-svg)
