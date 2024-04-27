@@ -57,7 +57,7 @@
   ### Social media:
   <a href="https://discord.com/users/1065050312420900934/"><img src="https://cdn-icons-png.flaticon.com/128/2626/2626288.png" height="40" alt="Discord"/></a>
   <img width="20" />
-  <a href="mailto:raf.llosilva@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" height="37" alt="Gmail"/></a>
+  <a href="mailto:rrafa.pastrello@gmail.com"><img src="https://cdn-icons-png.flaticon.com/128/2504/2504727.png" height="37" alt="Gmail"/></a>
   <img width="20" />
   <a href="https://www.linkedin.com/in/rafaela-pastrello-silva-049801283/"><img src="https://cdn-icons-png.flaticon.com/128/3938/3938061.png" height="34" alt="LinkedIn"/></a>
   <img width="20" />
