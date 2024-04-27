@@ -7,7 +7,7 @@
 <br>
 
 <!-- Gráfico -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafllosilva&bg_color=0d1117&color=00FF00&line=b13583&point=FFC83D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rafapastrello&bg_color=0d1117&color=00FF00&line=b13583&point=FFC83D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
@@ -39,15 +39,15 @@
 
 <!-- Status -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafllosilva&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=00FF00&text_color=c9d1d9&bg_color=171717" alt="Pastrello's github stats" /> 
-  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafllosilva&layout=compact&hide_border=true&title_color=FFFFFF&text_color=b6b6b6&bg_color=0d1117" />
-  <img width="52%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rafllosilva&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="rafllosilva" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=rafapastrello&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=00FF00&text_color=c9d1d9&bg_color=171717" alt="Pastrello's github stats" /> 
+  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafapastrello&layout=compact&hide_border=true&title_color=FFFFFF&text_color=b6b6b6&bg_color=0d1117" />
+  <img width="52%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=rafapastrello&theme=dark&show_icons=true&count_private=true&hide_border=true" alt="rafapastrello" />
 </div>
 
 <br><br>
 
 <!-- Troféus -->
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rafllosilva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=rafapastrello&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/></p>
 
 <br>
 
@@ -71,7 +71,7 @@
 <!-- Visitors Count -->
 <div align="center">
   <p><b>Visitors Count</b></p>  
-  <img src="https://profile-counter.glitch.me/{rafllosilva}/count.svg"/>
+  <img src="https://profile-counter.glitch.me/{rafapastrello}/count.svg"/>
 </div>
 
 <br><br>
