@@ -63,7 +63,7 @@
   <img width="20" />
   <a href="https://www.instagram.com/rafa.pastrello/"><img src="https://cdn-icons-png.flaticon.com/128/3938/3938051.png" height="34" alt="Instagram"/></a>
   <img width="20" />
-  <a href="https://www.facebook.com/raf.llosilva/"><img src="https://cdn-icons-png.flaticon.com/128/1409/1409943.png" height="34" alt="Facebook"/></a>
+  <a href="https://www.facebook.com/rafa.pastrello/"><img src="https://cdn-icons-png.flaticon.com/128/1409/1409943.png" height="34" alt="Facebook"/></a>
 </div>
 
 <br>
