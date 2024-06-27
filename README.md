@@ -71,6 +71,13 @@
 <!-- Visitors Count -->
 <div align="center">
   <p><b>Visitors Count</b></p>  
+  <img src="https://profile-counter.glitch.me/{rafapastrello}/count.svg"/>
+</div>
+
+<br>
+
+<div align="center">
+  <p><b>rafllosilva</b></p>  
   <img src="https://profile-counter.glitch.me/{rafllosilva}/count.svg"/>
 </div>
 
